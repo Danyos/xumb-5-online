@@ -51,6 +51,7 @@ for (let i=20;i>=0;i--){
 // tnayin
 
 // let year="3" //3*12=36
+
 // let price="100000"
 // let percent="24"
 
