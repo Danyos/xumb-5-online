@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea37fcf5-c0c4-4f1b-bdbe-c82e97f3b908" name="Changes" comment="" />
+    <list default="true" id="ea37fcf5-c0c4-4f1b-bdbe-c82e97f3b908" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../js-15/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-15/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js 13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../js 13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/xumb-5-online/js 14",
+    "last_opened_file_path": "D:/xumb-5-online/js-15",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +57,9 @@
       <updated>1681148487319</updated>
       <workItem from="1681148488092" duration="260000" />
       <workItem from="1681148782739" duration="7899000" />
-      <workItem from="1681492561810" duration="2077000" />
+      <workItem from="1681492561810" duration="2907000" />
+      <workItem from="1681757018388" duration="21000" />
+      <workItem from="1681757134706" duration="25000" />
     </task>
     <servers />
   </component>
